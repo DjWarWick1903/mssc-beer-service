@@ -26,7 +26,7 @@ import static org.springframework.restdocs.request.RequestDocumentation.*;
 import static org.springframework.restdocs.snippet.Attributes.key;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-@AutoConfigureRestDocs
+@AutoConfigureRestDocs(uriScheme = "https", uriHost = "dev.springframework.guru", uriPort = 80)
 @ExtendWith(RestDocumentationExtension.class)
 @WebMvcTest(BeerController.class)
 @ComponentScan(basePackages = "guru.springframework.msscbeerservice.web.mappers")
