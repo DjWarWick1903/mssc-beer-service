@@ -1,7 +1,9 @@
 [source,http,options="nowrap"]
 ----
-GET /api/v1/beer/81aec5a6-4934-4263-b6e0-5349b73cc0e9?iscold=yes HTTP/1.1
-Accept: application/json
+POST /api/v1/beer/ HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 161
 Host: localhost:8080
 
+{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":"My Beer","beerStyle":"ALE","upc":12312313213,"price":2.99,"quantityOnHand":null}
 ----

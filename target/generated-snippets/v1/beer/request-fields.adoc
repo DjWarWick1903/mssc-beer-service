@@ -1,0 +1,20 @@
+|===
+|Path|Type|Description
+
+|`+beerName+`
+|`+String+`
+|Name of the beer
+
+|`+beerStyle+`
+|`+String+`
+|Style of Beer
+
+|`+upc+`
+|`+Number+`
+|Beer UPC
+
+|`+price+`
+|`+Number+`
+|Beer Price
+
+|===

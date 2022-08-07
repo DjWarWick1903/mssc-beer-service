@@ -1,8 +1,5 @@
 [source,http,options="nowrap"]
 ----
-HTTP/1.1 200 OK
-Content-Type: application/json
-Content-Length: 148
+HTTP/1.1 201 Created
 
-{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":null,"beerStyle":null,"upc":null,"price":null,"quantityOnHand":null}
 ----
