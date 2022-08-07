@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":null,"beerStyle":null,"upc":null,"price":null,"quantityOnHand":null}
+----
