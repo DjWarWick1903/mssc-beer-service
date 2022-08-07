@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"id":null,"version":null,"createdDate":null,"lastModifiedDate":null,"beerName":"My Beer","beerStyle":"ALE","upc":12312313213,"price":2.99,"quantityOnHand":null}' | http POST 'https://dev.springframework.guru:80/api/v1/beer/' \
+    'Content-Type:application/json;charset=UTF-8'
+----
