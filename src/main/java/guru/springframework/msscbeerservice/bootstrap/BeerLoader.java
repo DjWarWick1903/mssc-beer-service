@@ -44,7 +44,7 @@ public class BeerLoader implements CommandLineRunner {
                     .quantityToBrew(200)
                     .minOnHand(12)
                     .upc(33701000002L)
-                    .price(new BigDecimal("11.95"))
+                    .price(new BigDecimal("11.90"))
                     .build());
         }
     }
