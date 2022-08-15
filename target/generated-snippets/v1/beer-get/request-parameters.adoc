@@ -1,7 +1,0 @@
-|===
-|Parameter|Description
-
-|`+iscold+`
-|Is Beer Cold Query param
-
-|===
