@@ -8,6 +8,7 @@ guru/springframework/msscbeerservice/services/inventory/model/BeerInventoryDto.c
 guru/springframework/msscbeerservice/domain/Beer.class
 guru/springframework/msscbeerservice/web/model/BeerPagedList.class
 guru/springframework/msscbeerservice/services/inventory/BeerInventoryServiceRestTemplateImpl$1.class
+guru/springframework/msscbeerservice/config/CacheConfig.class
 guru/springframework/msscbeerservice/MsscBeerServiceApplication.class
 guru/springframework/msscbeerservice/web/controller/MvcExceptionHandler.class
 guru/springframework/msscbeerservice/services/inventory/BeerInventoryServiceRestTemplateImpl.class
