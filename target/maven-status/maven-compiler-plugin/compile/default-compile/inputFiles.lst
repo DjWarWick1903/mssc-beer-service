@@ -1,5 +1,7 @@
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/mappers/DateMapper.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/config/CacheConfig.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/domain/Beer.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/services/inventory/BeerInventoryService.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerDto.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/controller/NotFoundException.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/controller/MvcExceptionHandler.java
@@ -7,8 +9,11 @@
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/services/BeerService.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/MsscBeerServiceApplication.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/bootstrap/BeerLoader.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/services/inventory/model/BeerInventoryDto.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/mappers/BeerMapperDecorator.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerStyleEnum.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/mappers/BeerMapper.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/services/inventory/BeerInventoryServiceRestTemplateImpl.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/repositories/BeerRepository.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/web/model/BeerPagedList.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-beer-service/src/main/java/guru/springframework/msscbeerservice/services/BeerServiceImpl.java
