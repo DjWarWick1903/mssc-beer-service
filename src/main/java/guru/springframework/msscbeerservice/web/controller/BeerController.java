@@ -1,22 +1,16 @@
 package guru.springframework.msscbeerservice.web.controller;
 
-import guru.springframework.msscbeerservice.domain.Beer;
-import guru.springframework.msscbeerservice.repositories.BeerRepository;
 import guru.springframework.msscbeerservice.services.BeerService;
-import guru.springframework.msscbeerservice.web.model.BeerDto;
-import guru.springframework.msscbeerservice.web.model.BeerPagedList;
-import guru.springframework.msscbeerservice.web.model.BeerStyleEnum;
-import lombok.AllArgsConstructor;
+import guru.sfg.brewery.model.BeerDto;
+import guru.sfg.brewery.model.BeerPagedList;
+import guru.sfg.brewery.model.BeerStyleEnum;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.UUID;
 
 @RequestMapping("/api/v1/")

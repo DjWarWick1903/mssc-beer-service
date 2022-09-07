@@ -1,7 +1,7 @@
 package guru.springframework.msscbeerservice.web.mappers;
 
 import guru.springframework.msscbeerservice.domain.Beer;
-import guru.springframework.msscbeerservice.web.model.BeerDto;
+import guru.sfg.brewery.model.BeerDto;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
